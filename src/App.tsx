@@ -1,6 +1,6 @@
 import "./App.css";
 
-import React, { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
 import CountUp from "react-countup";
 import { Sparkles, Dice6 } from "lucide-react";
 
